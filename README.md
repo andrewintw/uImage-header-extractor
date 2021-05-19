@@ -45,4 +45,11 @@ Verifying Magic Number...PASS
 Verifying Checksum...PASS
 ```
 
+
+
+## uImage header
+
+![](uImage_header.png)
+
+
 ~ END ~
